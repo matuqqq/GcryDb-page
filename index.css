@@ -18,7 +18,9 @@ h2 {
 h3 {
     font-size: 2em;
 }
-
+html {
+    scroll-behavior: smooth;
+}
 p {
     font-size: 1.25;
 }
